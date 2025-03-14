@@ -1,0 +1,9 @@
+---
+jupyter: python3
+---
+
+```{python}
+#| collapsed: false
+print("Hello World")
+```
+
