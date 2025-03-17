@@ -1,6 +1,6 @@
 ---
 title: "Whitney Airewele"
-image: "images/whitney_cropped.png.png"
+image: "/images/whitney_cropped.png.png"
 ---
 
 This is a Quarto website.
