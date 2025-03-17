@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "About Me"
+subtitle: "Learn a bit more about me"
 ---
 
 About this site
