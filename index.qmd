@@ -1,5 +1,6 @@
 ---
-title: "whitney-airewele.github.io"
+title: "Whitney Airewele"
+image: images/whitney_cropped.png
 ---
 
 This is a Quarto website.
