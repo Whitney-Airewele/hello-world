@@ -3,4 +3,7 @@ title: "About Me"
 subtitle: "Learn a bit more about me"
 ---
 
-About this site
+## Who I am 🌟  
+I am currently in my final year of DCU pursuing a degree in International Business with French, specialising in Data Analytics. I've always loved the idea of knowing different languages as well as the abilities to transform data and gain insights. This is what lead to my choice of specialism. Although it was not something I had a huge amount of experience studying in my pervious years, my love for continous learning helped me a lot. Now I can say that I have developed a strong foundation within data analytics! As someone who also loves anything art related, my creativity allows me to analyse things from different perspectives and beyond numbers data analytics allows me to connect logic with creativity. There is always something new to explore within this field which I love and I believe there is a need for it in every aspect of business. 
+
+

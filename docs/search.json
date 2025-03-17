@@ -9,7 +9,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
     "text": "About this site"
   },
@@ -19,5 +19,12 @@
     "title": "Whitney Airewele",
     "section": "",
     "text": "print(\"hello world\")\n\nhello world\n\n\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\n\nprint(\"hello world\")\n\nhello world"
+  },
+  {
+    "objectID": "about.html#who-i-am",
+    "href": "about.html#who-i-am",
+    "title": "About Me",
+    "section": "",
+    "text": "I am currently in my final year of DCU pursuing a degree in International Business with French, specialising in Data Analytics. I’ve always loved the idea of knowing different languages as well as the abilities to transform data and gain insights. This is what lead to my choice of specialism. Although it was not something I had a huge amount of experience studying in my pervious years, my love for continous learning helped me a lot. Now I can say that I have developed a strong foundation within data analytics! As someone who also loves anything art related, my creativity allows me to analyse things from different perspectives and beyond numbers data analytics allows me to connect logic with creativity. There is always something new to explore within this field which I love and I believe there is a need for it in every aspect of business."
   }
 ]
