@@ -2,7 +2,7 @@
 title: "Whitney Airewele"
 image: images/whitney_cropped.png.png
 about:
-  template: trestles
+  template: solana
   links: # create buttons
   - text: Linkedin
     href: https://www.linkedin.com/in/whitneyairewele/
