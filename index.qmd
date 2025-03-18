@@ -2,9 +2,12 @@
 title: "Whitney Airewele"
 image: images/whitney_cropped.png.png
 about:
-  template: solana
+  template: trestles
+  links: # create buttons
+  - text: Linkedin
+    href: https://www.linkedin.com/in/whitneyairewele/
 ---
-Hello, I'm Whitney Airewele! Welcome to my website where you will find out more about me, my academics and experience. Look around in the [about me] (about.qmd) section to learn more!
+Hello, I'm Whitney Airewele! Welcome to my website where you will find out more about me, my academics and experience. Look around in the About me section to learn more!
 
 
 This is a Quarto website.
