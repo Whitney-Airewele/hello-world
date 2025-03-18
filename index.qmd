@@ -1,8 +1,12 @@
 ---
 title: "Whitney Airewele"
 image: images/whitney_cropped.png.png
+about:
+  template: solana
 ---
 ![Whitney Airewele](images/whitney_cropped.png.png){width=150px style="border-radius:50%;"}
+
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
