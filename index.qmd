@@ -7,9 +7,8 @@ about:
   - text: Linkedin
     href: https://www.linkedin.com/in/whitneyairewele/
 ---
-Hello, I'm Whitney Airewele! Welcome to my website where you will find out more about me, my academics and experience. Look around in the About me section to learn more!
+Hello, I'm Whitney Airewele! Welcome to my website where you will find out more about me, my academics and experience. Look around to [learn more] (about.qmd).
+
+## **Education**
 
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
